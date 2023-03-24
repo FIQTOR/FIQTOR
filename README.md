@@ -2,7 +2,7 @@
 
 **`(Developer/Creator)`**
 
-I'm an indie full-stack developer and Game developer"[FIQTOR][youtube]" to more than 700 subscribers.
+I'm an indie full-stack developer and Game developer"[FIQTOR][youtube]" to more than 700 subscribers. <a href="https://fiqtor.github.io/">MyWebsite</a>
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCjImMlihTzXB872jkBzsuiw?view_as=subscriber?sub_confirmation=1">
