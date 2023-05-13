@@ -45,9 +45,21 @@ I'm an indie full-stack developer and Game developer"[FIQTOR][youtube]" to more 
 
 <details>
  <summary><h3>👨‍💻 FIQTOR Coding Journey</h3></summary>
-   Berawal pada tahun 2019 pada saya itu saya baru memulai mempelajari bahasa pemprograman php karena saat itu saya ingin membuat server minecraft dengan kreasi atau kreatifitas sendiri.
-
-Setelah pada tahun 2021 saya memulai mempelajari bahasa pemrogaman c# atau csharp karena saya ingin mencoba membuat game di unity seperti sheliter io, robot io, dan lain-lainnya.
+   <p>Berawal pada tahun 2019 pada saat itu saya mulai tertarik dengan coding dan memulai mempelajari bahasa pemprograman 
+                            php karena saat itu saya ingin membuat server minecraft karena melihat beberapa server lokal yang menyediakan 
+                            beberapa minigame minigame, sebenarnya saya terlalu memaksa karena saya belajar secara autodidak dengan youtube, 
+                            saya membuat server minecraft dengan kreasi atau kreatifitas sendiri dengan di bantu teman saya sebagai rekomendasi.
+                        </p>
+                        <p>pada tahun 2021 saya memulai mempelajari bahasa pemrogaman C# atau csharp, saya ingin mencoba membuat
+                            game di unity karena rasa penasaran apa yang digunakan para developer untuk membuat game. saya mempelajari 
+                            step per step pada awalnya saya kurang mengerti karena saya belum mengetahui bagaimana cara kerja bahasa C# 
+                            tetapi lama kelamaan saya mengerti dengan menonton tutorial di youtube, saya membuat beberapa game seperti 
+                            sheliter io, robot io, dan lain-lainnya.
+                        </p>
+                        <p>lalu pada awal 2022 saya mencoba mempelajari bahasa pemrogaman HTML, CSS, PHP, dan JS atau javascript karena 
+                            saya ingin memperluas pengetahuan saya tentang pemprogaman. Untuk membuat website sendiri dan mempelajari beberapa 
+                            framework seperti Laravel, ReactJS, dan lain-lainnya.
+                        </p>
 
 pada awal 2022 saya mencoba mempelajari bahasa pemrogaman HTML, CSS, PHP, dan JS atau javascript. Untuk membuat website sendiri dan mempelajari beberapa framework seperti laravel dan ReactJS.
 
