@@ -2,7 +2,9 @@
 
 **`(Developer/Creator)`**
 
-I'm an full-stack developer and Game developer"[FIQTOR][youtube]" to more than 700 subscribers. [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fiqtor.sytes.net/)
+I'm an full-stack developer and Game developer"[FIQTOR][youtube]" to more than 700 subscribers.
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fiqtor.sytes.net/)
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCjImMlihTzXB872jkBzsuiw?view_as=subscriber?sub_confirmation=1">
