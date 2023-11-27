@@ -2,7 +2,7 @@
 
 **`(Full-stack Web Developer)`**
 
-<a href="https://fiqtor.xyz"><img alt="Website" src="https://img.shields.io/badge/Portfolio-fiqtor.xyz-white?style=flat&logo=email"></a>
+<a href="https://fiqtor.xyz"><img alt="Website" src="https://img.shields.io/badge/Portfolio_Website-fiqtor.xyz-white?style=flat&logo=email"></a>
 
 Hello there, my name is Taufiiqul Hakim, I'M from Indonesia/Jawa Barat/Bekasi, I am a website developer, with the skills I have I can create applications that are responsive and have good quality. 
 
