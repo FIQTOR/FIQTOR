@@ -16,7 +16,7 @@ Hello there, my name is Taufiiqul Hakim, I'M from Indonesia/Jawa Barat/Bekasi, I
 ![PHP](https://img.shields.io/badge/PHP-white?logo=php)
 ![CSHARP](https://img.shields.io/badge/CSharp-white?logo=c-sharp&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-white?logo=cplusplus&logoColor=black)
-![Python](https://img.shields.io/badge/python-white?logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=yellow)
 
 ### Techstack
 
