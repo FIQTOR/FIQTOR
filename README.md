@@ -29,6 +29,7 @@ Hello there, my name is Taufiiqul Hakim, I'M from Indonesia/Jawa Barat/Bekasi, I
 ![JQuery](https://img.shields.io/badge/JQuery-white?logo=jquery&logoColor=black)
 ![Framer](https://img.shields.io/badge/Framer_Motion-white?logo=framer&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-white?logo=redux&logoColor=purple)
+[![Express.js](https://img.shields.io/badge/Express.js-white?logo=node.js&logoColor=black)](https://expressjs.com/)
 
 ### Soft Skill
 
