@@ -30,7 +30,7 @@ Hello there, my name is Taufiiqul Hakim, I'M from Indonesia/Jawa Barat/Bekasi, I
 ![Framer](https://img.shields.io/badge/Framer_Motion-white?logo=framer&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-white?logo=redux&logoColor=purple)
 [![Express.js](https://img.shields.io/badge/Express.js-white?logo=node.js&logoColor=black)](https://expressjs.com/)
-
+![Axios](https://img.shields.io/badge/Axios-white?logo=axios&logoColor=black)
 ### Soft Skill
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-white?logo=adobe-photoshop)
