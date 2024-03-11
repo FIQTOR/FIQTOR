@@ -1,6 +1,6 @@
 # 🏄‍♂️ FIQTOR
 
-**`(Full-stack Web Developer)`**
+**`(Full Stack Developer)`**
 
 <a href="https://fiqtor.xyz"><img alt="Website" src="https://img.shields.io/badge/Portfolio_Website-fiqtor.xyz-white?style=flat&logo=email"></a>
 
