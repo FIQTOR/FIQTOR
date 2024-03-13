@@ -1,5 +1,7 @@
 # 🏄‍♂️ FIQTOR
 
+![Discord](https://discord.c99.nl/widget/theme-1/736371709137125418.png)
+
 **`(Full Stack Developer)`**
 
 <a href="https://fiqtor.xyz"><img alt="Website" src="https://img.shields.io/badge/Portfolio_Website-fiqtor.xyz-white?style=flat&logo=email"></a>
