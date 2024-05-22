@@ -36,8 +36,8 @@ This my skill on techstack (library and framework).
 [![JSONWebToken](https://img.shields.io/badge/JWT-white?logo=jsonwebtokens&logoColor=black)](https://jwt.io/)
 [![Express.js](https://img.shields.io/badge/Express.js-white?logo=express&logoColor=black)](https://expressjs.com/)
 ![Axios](https://img.shields.io/badge/Axios-white?logo=axios&logoColor=black)
-### • Soft Skill
-This my soft skill.
+### • Other Skill
+This my other skill.
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-white?logo=adobe-photoshop)
 ![Figma](https://img.shields.io/badge/Figma-white?logo=figma)
