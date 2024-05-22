@@ -17,7 +17,7 @@ This my programming skill language.
 ![Typescript](https://img.shields.io/badge/Typescript-white?logo=typescript)
 ![SASS](https://img.shields.io/badge/SASS-white?logo=sass)
 ![PHP](https://img.shields.io/badge/PHP-white?logo=php)
-![CSHARP](https://img.shields.io/badge/CSharp-white?logo=c-sharp&logoColor=black)
+![CSHARP](https://img.shields.io/badge/CSharp-white?logo=csharp&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-white?logo=cplusplus&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=yellow)
 
@@ -56,6 +56,7 @@ This my experience method of hosting website to server.
 [![Instagram: fiqtorr](https://img.shields.io/badge/-@fiqtorr-purple?style=flat-square?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/fiqtorr/)](https://www.instagram.com/fiqtorr/)
 [![Tiktok: fiqtorr](https://img.shields.io/badge/-@fiqtor-black?style=flat-square?style=flat&logo=Tiktok&logoColor=whitee&link=https://www.tiktok.com/@fiqtor/)](https://www.tiktok.com/@fiqtor/)
 [![Youtube: fiqtor](https://img.shields.io/badge/-fiqtor-red?style=flat-square?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/fiqtor/)](https://www.youtube.com/@fiqtor/)
+[![LinkedIn: fiqtor](https://img.shields.io/badge/-taufiiqul_hakim2007-blue?style=flat-square?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taufiiqul-hakim2007)](https://www.linkedin.com/in/taufiiqul-hakim2007)
 
 ### • Find Me
 
