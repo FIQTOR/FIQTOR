@@ -17,7 +17,7 @@ This my programming skill language.
 ![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
 ![SASS](https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass)
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php)
-![CSHARP](https://img.shields.io/badge/CSharp-white?style=for-the-badge&logo=csharp&logoColor=black)
+![CSHARP](https://img.shields.io/badge/CSharp-white?style=for-the-badge&logo=sharp&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=yellow)
 
