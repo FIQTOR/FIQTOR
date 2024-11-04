@@ -4,7 +4,7 @@
 
 **`(Full Stack Developer)`**
 
-<a href="https://fiqtor.xyz"><img alt="Website" src="https://img.shields.io/badge/Portfolio_Website-fiqtor.xyz-white?style=for-the-badge&logo=email"></a>
+<a href="https://fiqtor.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio_Website-fiqtor.xyz-white?style=for-the-badge&logo=email"></a>
 
 Hello there, my name is Taufiiqul Hakim a Website Developer with position Full Stack from Indonesia with 3 years experience in development software application and game, with the skills I have I can create applications that are responsive in mobile view and have good quality with beautiful animation and design, don't forget to follow my github 🙌. 
 
