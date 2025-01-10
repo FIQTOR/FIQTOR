@@ -56,6 +56,7 @@ This my experience method of hosting website to server.
 [![Instagram: fiqtorr](https://img.shields.io/badge/-@fiqtorr-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/fiqtorr/)](https://www.instagram.com/fiqtorr/)
 [![Tiktok: fiqtorr](https://img.shields.io/badge/-@fiqtor-black?style=for-the-badge&logo=Tiktok&logoColor=whitee&link=https://www.tiktok.com/@fiqtor/)](https://www.tiktok.com/@fiqtor/)
 [![Youtube: fiqtor](https://img.shields.io/badge/-fiqtor-red?style=for-the-badge&&logo=Youtube&logoColor=white&link=https://www.youtube.com/fiqtor/)](https://www.youtube.com/@fiqtor/)
+[![Telegram: fiqtor](https://img.shields.io/badge/-fiqtor-blue?style=for-the-badge&&logo=Telegram&logoColor=white&link=https://t.me/fiqtorr)](https://t.me/fiqtorr)
 [![LinkedIn: fiqtor](https://img.shields.io/badge/-taufiiqul_hakim2007-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taufiiqul-hakim2007)](https://www.linkedin.com/in/taufiiqul-hakim2007)
 
 ### • Find Me
