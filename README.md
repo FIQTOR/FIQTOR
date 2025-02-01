@@ -73,3 +73,9 @@ This my experience method of hosting website to server.
 <div>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIQTOR&layout=compact&theme=transparent&hide=php&langs_count=6" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiqtor/fiqtor/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiqtor/fiqtor/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/fiqtor/fiqtor/output/github-snake.svg" />
+</picture>
