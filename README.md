@@ -10,8 +10,7 @@
 
 Hello there, my name is Taufiiqul Hakim a Application Developer with position Full Stack from Indonesia with 3 years experience in development software application and game, with the skills I have I can create applications that are responsive in mobile view and have good quality with beautiful animation and design, don't forget to follow my github 🙌. 
 
-### • Programming Language
-This my programming skill language.
+### • Technical Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=aqua)
@@ -22,10 +21,6 @@ This my programming skill language.
 ![CSHARP](https://img.shields.io/badge/CSharp-white?style=for-the-badge&logo=sharp&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=yellow)
-
-### • Techstack
-This my skill on techstack (library and framework).
-
 ![Next](https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![React](https://img.shields.io/badge/React_JS-white?style=for-the-badge&logo=react)
 ![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel)
@@ -38,16 +33,9 @@ This my skill on techstack (library and framework).
 [![JSONWebToken](https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=jsonwebtokens&logoColor=black)](https://jwt.io/)
 [![Express.js](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com/)
 ![Axios](https://img.shields.io/badge/Axios-white?style=for-the-badge&logo=axios&logoColor=black)
-### • Other Skill
-This my other skill.
-
 ![Photoshop](https://img.shields.io/badge/Photoshop-white?style=for-the-badge&logo=adobe-photoshop)
 ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma)
 ![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
-
-### • Hosting Experience
-This my experience method of hosting website to server.
-
 ![Github Pages](https://img.shields.io/badge/Github_Pages-white?style=for-the-badge&logo=github-pages&logoColor=black)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-white?style=for-the-badge&logo=amazonaws&logoColor=orange)
 ![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)
