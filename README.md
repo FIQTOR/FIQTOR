@@ -1,6 +1,7 @@
+<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
+
 # 🏄‍♂️ FIQTOR
 
-<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 ![Discord](https://discord.c99.nl/widget/theme-1/736371709137125418.png)
 
 **`(Full Stack Developer)`**
