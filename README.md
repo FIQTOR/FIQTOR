@@ -12,7 +12,9 @@ Click below to see my personal website
 
 Hello there, my name is Taufiiqul Hakim a Application Developer with position Full Stack from Indonesia with 3 years experience in development software application and game, with the skills I have I can create applications that are responsive in mobile view and have good quality with beautiful animation and design, don't forget to follow my github 🙌. 
 
-### • Technical Stack
+---
+
+### Technical Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=aqua)
@@ -43,7 +45,9 @@ Hello there, my name is Taufiiqul Hakim a Application Developer with position Fu
 ![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)
 ![cPanel](https://img.shields.io/badge/cPanel-white?style=for-the-badge&logo=cpanel&logoColor=orange)
 
-### • Follow Me On
+---
+
+### Follow Me On
 
 [![Instagram: fiqtorr](https://img.shields.io/badge/-@fiqtorr-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/fiqtorr/)](https://www.instagram.com/fiqtorr/)
 [![Tiktok: fiqtorr](https://img.shields.io/badge/-@fiqtor-black?style=for-the-badge&logo=Tiktok&logoColor=whitee&link=https://www.tiktok.com/@fiqtor/)](https://www.tiktok.com/@fiqtor/)
@@ -51,20 +55,27 @@ Hello there, my name is Taufiiqul Hakim a Application Developer with position Fu
 [![Telegram: fiqtor](https://img.shields.io/badge/-fiqtor-blue?style=for-the-badge&&logo=Telegram&logoColor=white&link=https://t.me/fiqtorr)](https://t.me/fiqtorr)
 [![LinkedIn: fiqtor](https://img.shields.io/badge/-taufiiqul_hakim2007-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taufiiqul-hakim2007)](https://www.linkedin.com/in/taufiiqul-hakim2007)
 
-### • Find Me
+---
+
+### Find Me
 
 <a href="mailto:taufiq07326@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-taufiq07326@gmail.com-blue?style=for-the-badge&logo=email"></a>
 [![wakatime](https://wakatime.com/badge/user/018b6162-db04-4d9a-aba1-c4451deb03f6.svg?style=for-the-badge)](https://wakatime.com/@018b6162-db04-4d9a-aba1-c4451deb03f6)
 [![](https://komarev.com/ghpvc/?style=for-the-badge&username=FIQTOR&color=blue&label=Profile%20Views)](https://github.com/FIQTOR/FIQTOR)
 [![](https://img.shields.io/github/followers/FIQTOR?style=for-the-badge&label=GitHub%20Followers)](https://github.com/FIQTOR)
 
+---
 
-
-### • My Github Statistics
+### My Github Statistics
 
 <div>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIQTOR&layout=compact&theme=transparent&hide=php&langs_count=6" />
 </div>
+
+---
+
+  ## 💰 You can help me by Donating
+  [![Saweria](https://img.shields.io/badge/Saweria-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/fiqtor)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiqtor/fiqtor/output/github-snake-dark.svg" />
