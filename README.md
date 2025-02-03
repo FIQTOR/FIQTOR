@@ -75,7 +75,7 @@ Hello there, my name is Taufiiqul Hakim a Application Developer with position Fu
 ---
 
   ## 💰 You can help me by Donating
-  [![Saweria](https://img.shields.io/badge/Saweria-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/fiqtor)
+  [![Saweria](https://img.shields.io/badge/Saweria-blue?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/fiqtor)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiqtor/fiqtor/output/github-snake-dark.svg" />
