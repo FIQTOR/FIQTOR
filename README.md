@@ -74,7 +74,7 @@ Hello there, my name is Taufiiqul Hakim a Application Developer with position Fu
 
 ---
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can support me by Donating
   [![Saweria](https://img.shields.io/badge/Saweria-blue?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/fiqtor)
 
 <picture>
