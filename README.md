@@ -26,7 +26,7 @@ Hello there, my name is Taufiiqul Hakim a Application Developer with position Fu
 ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=yellow)
 ![Next](https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
-![React](https://img.shields.io/badge/React_JS-white?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React_Dev-white?style=for-the-badge&logo=react)
 ![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter4-white?style=for-the-badge&logo=codeigniter)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap)
