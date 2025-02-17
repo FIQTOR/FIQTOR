@@ -62,7 +62,6 @@ Hello there, my name is Taufiiqul Hakim a Application Developer with position Fu
 <a href="mailto:taufiq07326@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-taufiq07326@gmail.com-blue?style=for-the-badge&logo=email"></a>
 [![wakatime](https://wakatime.com/badge/user/018b6162-db04-4d9a-aba1-c4451deb03f6.svg?style=for-the-badge)](https://wakatime.com/@018b6162-db04-4d9a-aba1-c4451deb03f6)
 [![](https://komarev.com/ghpvc/?style=for-the-badge&username=FIQTOR&color=blue&label=Profile%20Views)](https://github.com/FIQTOR/FIQTOR)
-[![](https://img.shields.io/github/followers/FIQTOR?style=for-the-badge&label=GitHub%20Followers)](https://github.com/FIQTOR)
 
 ---
 
