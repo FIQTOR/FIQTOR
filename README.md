@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
-  # 👨‍💻 FIQTOR | Full Stack Developer
+  # 👨‍💻 FIQTOR | Developer | Freelancer 
 
   ![Discord Status](https://discord.c99.nl/widget/theme-1/736371709137125418.png)
 
