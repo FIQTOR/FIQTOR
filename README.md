@@ -11,7 +11,7 @@
 
   > *"Crafting digital experiences that merge creativity with functionality"*
 
-  👋 Greetings! I'm **Taufiiqul Hakim**, a passionate Full Stack Developer from Indonesia with 3+ years of experience in software. I specialize in creating responsive, animated, and beautifully designed applications that deliver exceptional user experiences.
+  👋 Greetings! I'm **Taufiiqul Hakim**, a passionate Full Stack Developer from Indonesia with 4+ years of experience in software. I specialize in creating responsive, animated, and beautifully designed applications that deliver exceptional user experiences.
 
 </div>
 
