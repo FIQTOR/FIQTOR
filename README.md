@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
-  # 👨‍💻 FIQTOR - Software Developer & Freelancer 
+  # 👨‍💻 FIQTOR - AI X Software Developer
 
   ![Discord Status](https://discord.c99.nl/widget/theme-1/736371709137125418.png)
 
