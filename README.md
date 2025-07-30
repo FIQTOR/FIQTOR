@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Technology Arsenal
+### 🛠️ My Tools & Technologies
 
 <details open>
 <summary>💻 Tech Stack</summary>
