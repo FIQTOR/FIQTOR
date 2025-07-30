@@ -19,40 +19,46 @@
 
 ### 🛠️ Technology Arsenal
 
-<details>
-<summary>Frontend Development</summary>
+<details open>
+<summary>💻 Tech Stack</summary>
 
-- ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=aqua) ![SASS](https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass)
-- ![Javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) ![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
-- ![React](https://img.shields.io/badge/React_Dev-white?style=for-the-badge&logo=react) ![Next](https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap) ![Tailwind](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwind-css)
-- ![Framer](https://img.shields.io/badge/Framer_Motion-white?style=for-the-badge&logo=framer&logoColor=black) ![Redux](https://img.shields.io/badge/Redux_Toolkit-white?style=for-the-badge&logo=redux&logoColor=purple)
+- **Frontend:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5) 
+  ![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css&logoColor=aqua) 
+  ![SASS](https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass)  
+  ![JavaScript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) 
+  ![TypeScript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)  
+  ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react) 
+  ![Next.js](https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=nextdotjs&logoColor=black)  
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap) 
+  ![Tailwind](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwind-css)  
+  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-white?style=for-the-badge&logo=framer&logoColor=black) 
+  ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-white?style=for-the-badge&logo=redux&logoColor=purple)
+
+- **Backend:**  
+  ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php) 
+  ![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel) 
+  ![CodeIgniter](https://img.shields.io/badge/Codeigniter4-white?style=for-the-badge&logo=codeigniter)  
+  ![Express.js](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black) 
+  ![JWT](https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=jsonwebtokens&logoColor=black)  
+  ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=yellow)  
+
+- **Automation & AI:**  
+  ![n8n](https://img.shields.io/badge/n8n-white?style=for-the-badge&logo=n8n&logoColor=orange)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-white?style=for-the-badge&logo=openai&logoColor=black)
 
 </details>
 
 <details>
-<summary>Backend Development</summary>
+<summary>🛠️ Others</summary>
 
-- ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel) ![Codeigniter](https://img.shields.io/badge/Codeigniter4-white?style=for-the-badge&logo=codeigniter)
-- ![Express.js](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=jsonwebtokens&logoColor=black)
-- ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=yellow)
-
-</details>
-
-<details>
-<summary>Game Development</summary>
-
-- ![CSHARP](https://img.shields.io/badge/CSharp-white?style=for-the-badge&logo=sharp&logoColor=black) ![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
-- ![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=black)
-
-</details>
-
-<details>
-<summary>Design & Tools</summary>
-
-- ![Photoshop](https://img.shields.io/badge/Photoshop-white?style=for-the-badge&logo=adobe-photoshop) ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma)
-- ![AWS](https://img.shields.io/badge/Amazon_AWS-white?style=for-the-badge&logo=amazonaws&logoColor=orange) ![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)
-- ![cPanel](https://img.shields.io/badge/cPanel-white?style=for-the-badge&logo=cpanel&logoColor=orange) ![Github Pages](https://img.shields.io/badge/Github_Pages-white?style=for-the-badge&logo=github-pages&logoColor=black)
+- **Tools & Deployment:**  
+  ![Photoshop](https://img.shields.io/badge/Photoshop-white?style=for-the-badge&logo=adobe-photoshop) 
+  ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma)  
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-white?style=for-the-badge&logo=amazonaws&logoColor=orange) 
+  ![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)  
+  ![cPanel](https://img.shields.io/badge/cPanel-white?style=for-the-badge&logo=cpanel&logoColor=orange) 
+  ![GitHub Pages](https://img.shields.io/badge/Github_Pages-white?style=for-the-badge&logo=github-pages&logoColor=black)
 
 </details>
 
