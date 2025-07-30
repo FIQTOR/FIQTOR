@@ -11,7 +11,7 @@
 
   > *"Crafting digital experiences that merge creativity with functionality"*
 
-  👋 Greetings! I'm **Taufiiqul Hakim**, a passionate Full Stack Developer from Indonesia with 4+ years of experience in software. I specialize in creating responsive, animated, and beautifully designed applications that deliver exceptional user experiences.
+  👋 Greetings! I'm Taufiiqul Hakim, a Software Engineer from Indonesia with over 4 years of experience in crafting responsive, animated, and user-friendly web applications. I’m passionate about combining clean code with great design — and I love integrating AI features to make apps more powerful and intelligent.
 
 </div>
 
@@ -69,7 +69,7 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/-@fiqtorr-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fiqtorr/)
-[![LinkedIn](https://img.shields.io/badge/-Taufiiqul_Hakim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taufiiqul-hakim2007)
+[![LinkedIn](https://img.shields.io/badge/-Taufiiqul_Hakim-0077B5?style=for-the-badge&logo=Linkedln&logoColor=white)](https://www.linkedin.com/in/taufiiqul-hakim2007)
 [![TikTok](https://img.shields.io/badge/-@fiqtor-000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@fiqtor/)
 [![YouTube](https://img.shields.io/badge/-fiqtor-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@fiqtor/)
 [![Telegram](https://img.shields.io/badge/-fiqtor-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/fiqtorr)
