@@ -283,12 +283,6 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="https://redis.io">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
       <a href="https://sqlite.org">
         <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
       </a>
