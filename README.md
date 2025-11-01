@@ -133,12 +133,6 @@
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <a href="https://codeigniter.com">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="CodeIgniter" />
-      </a>
-      <br>CodeIgniter
-    </td>
-    <td align="center" width="96">
       <a href="https://nodejs.org">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       </a>
@@ -185,12 +179,6 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="n8n" />
       </a>
       <br>n8n
-    </td>
-    <td align="center" width="96">
-      <a href="https://zapier.com">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Zapier" />
-      </a>
-      <br>Zapier
     </td>
     <td align="center" width="96">
       <a href="https://tensorflow.org">
