@@ -29,7 +29,7 @@
 `React` `Next.js` `TypeScript` `TailwindCSS` `Framer Motion` `Redux` `Vite` `Figma`
 
 ### ⚙️ Backend & AI
-`Node.js` `Laravel (PHP)` `Python` `Express` `OpenAI API` `LangChain` `n8n`
+`Node.js` `Laravel (PHP)` `Python` `Express` `OpenAI API` `Google Genie AI`
 
 ### 🗄️ Infrastructure & Database
 `PostgreSQL` `MySQL` `MongoDB` `Docker` `AWS` `Vercel` `Git/GitHub`
