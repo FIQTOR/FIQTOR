@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+  <img src="banner.png" alt="GitHub Banner" width="100%" />
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=🚀+Welcome+to+My+Digital+Universe!;👨‍💻+FIQTOR+-+AI+X+Software+Engineer" />
