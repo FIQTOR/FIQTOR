@@ -21,18 +21,25 @@
 
 ---
 
----
-
 ## 🛠️ Technical Ecosystem
 
 ### 💻 Frontend & UI/UX
-`React` `Next.js` `TypeScript` `TailwindCSS` `Framer Motion` `Redux` `Vite` `Figma`
+| | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react" width="40"> | <img src="https://skillicons.dev/icons?i=nextjs" width="40"> | <img src="https://skillicons.dev/icons?i=ts" width="40"> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"> | <img src="https://skillicons.dev/icons?i=redux" width="40"> | <img src="https://skillicons.dev/icons?i=vite" width="40"> | <img src="https://skillicons.dev/icons?i=figma" width="40"> |
+| React | Next.js | TypeScript | Tailwind | Redux | Vite | Figma |
 
 ### ⚙️ Backend & AI
-`Node.js` `Laravel (PHP)` `Python` `Express` `OpenAI API` `Google Genie AI`
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"> | <img src="https://skillicons.dev/icons?i=laravel" width="40"> | <img src="https://skillicons.dev/icons?i=py" width="40"> | <img src="https://skillicons.dev/icons?i=express" width="40"> |
+| Node.js | Laravel | Python | Express |
 
 ### 🗄️ Infrastructure & Database
-`PostgreSQL` `MySQL` `MongoDB` `Docker` `AWS` `Vercel` `Git/GitHub`
+| | | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=postgres" width="40"> | <img src="https://skillicons.dev/icons?i=mysql" width="40"> | <img src="https://skillicons.dev/icons?i=mongodb" width="40"> | <img src="https://skillicons.dev/icons?i=docker" width="40"> | <img src="https://skillicons.dev/icons?i=aws" width="40"> | <img src="https://skillicons.dev/icons?i=vercel" width="40"> | <img src="https://skillicons.dev/icons?i=git" width="40"> | <img src="https://skillicons.dev/icons?i=github" width="40"> |
+| Postgres | MySQL | MongoDB | Docker | AWS | Vercel | Git | GitHub |
 
 ---
 
