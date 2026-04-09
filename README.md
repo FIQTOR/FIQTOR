@@ -15,7 +15,7 @@
 
   > *"Crafting digital experiences that merge creativity with functionality"*
 
-  👋 Greetings! I'm Taufiiqul Hakim, a Software Engineer from Indonesia with over 4 years of experience in crafting responsive, animated, and user-friendly web applications. I’m passionate about combining clean code with great design — and I love integrating AI features to make apps more powerful and intelligent.
+  👋 Greetings! I'm Taufiiqul Hakim, a Software Engineer from Indonesia with over 5 years of experience in crafting responsive, animated, and user-friendly web applications. I’m passionate about combining clean code with great design — and I love integrating AI features to make apps more powerful and intelligent.
 
 </div>
 
