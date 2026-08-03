@@ -19,6 +19,12 @@
 
 </div>
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
 ---
 
 ## 🛠️ Technical Ecosystem
@@ -73,9 +79,3 @@ If you find my work valuable, consider supporting me:
 [![Saweria](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/fiqtor)
 
 </div>
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
