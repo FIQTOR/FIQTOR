@@ -74,8 +74,8 @@ If you find my work valuable, consider supporting me:
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiqtor/FIQTOR/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiqtor/FIQTOR/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/fiqtor/FIQTOR/output/github-snake.svg" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
