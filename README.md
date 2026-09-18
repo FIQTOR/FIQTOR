@@ -19,11 +19,18 @@
 
 </div>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+### Coding Stats
+
+<div align="center">
+  <img src="https://wakatime.com/share/@FIQTOR/3405bd41-0a85-4bb7-be1a-747d2678b62c.svg" alt="WakaTime Stats" width="100%" />
+</div>
+<div style="text-align: center;">
+  <img 
+    src="https://wakatime.com/share/@FIQTOR/9fc50a74-a559-4cf2-8cc4-ae3e4a387792.svg" 
+    alt="WakaTime Stats" 
+    style="max-width: 100%; height: auto;" 
+  />
+</div>
 
 ---
 
