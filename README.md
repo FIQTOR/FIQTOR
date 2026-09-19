@@ -36,23 +36,33 @@
 
 ## 🛠️ Technical Ecosystem
 
-### 💻 Frontend & UI/UX
-| | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react" width="40"> | <img src="https://skillicons.dev/icons?i=nextjs" width="40"> | <img src="https://skillicons.dev/icons?i=ts" width="40"> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"> | <img src="https://skillicons.dev/icons?i=redux" width="40"> | <img src="https://skillicons.dev/icons?i=vite" width="40"> | <img src="https://skillicons.dev/icons?i=figma" width="40"> |
-| React | Next.js | TypeScript | Tailwind | Redux | Vite | Figma |
+### 💻 Languages
 
-### ⚙️ Backend & AI
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="40"> | <img src="https://skillicons.dev/icons?i=laravel" width="40"> | <img src="https://skillicons.dev/icons?i=py" width="40"> | <img src="https://skillicons.dev/icons?i=express" width="40"> |
-| Node.js | Laravel | Python | Express |
+| | | | | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html" width="40"> | <img src="https://skillicons.dev/icons?i=css" width="40"> | <img src="https://skillicons.dev/icons?i=js" width="40"> | <img src="https://skillicons.dev/icons?i=ts" width="40"> | <img src="https://skillicons.dev/icons?i=php" width="40"> | <img src="https://skillicons.dev/icons?i=cpp" width="40"> | <img src="https://skillicons.dev/icons?i=cs" width="40"> | <img src="https://skillicons.dev/icons?i=py" width="40"> | <img src="https://skillicons.dev/icons?i=solidity" width="40"> | <img src="https://skillicons.dev/icons?i=lua" width="40"> |
+| HTML5 | CSS3 | JavaScript | TypeScript | PHP | C++ | C# | Python | Solidity | Lua |
 
-### 🗄️ Infrastructure & Database
+### 🎨 Frontend
+
 | | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=postgres" width="40"> | <img src="https://skillicons.dev/icons?i=mysql" width="40"> | <img src="https://skillicons.dev/icons?i=mongodb" width="40"> | <img src="https://skillicons.dev/icons?i=docker" width="40"> | <img src="https://skillicons.dev/icons?i=aws" width="40"> | <img src="https://skillicons.dev/icons?i=vercel" width="40"> | <img src="https://skillicons.dev/icons?i=git" width="40"> | <img src="https://skillicons.dev/icons?i=github" width="40"> |
-| Postgres | MySQL | MongoDB | Docker | AWS | Vercel | Git | GitHub |
+| <img src="https://skillicons.dev/icons?i=react" width="40"> | <img src="https://skillicons.dev/icons?i=nextjs" width="40"> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"> | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"> | <img src="https://skillicons.dev/icons?i=jquery" width="40"> | <img src="https://skillicons.dev/icons?i=framer" width="40"> | <img src="https://skillicons.dev/icons?i=redux" width="40"> | <img src="https://skillicons.dev/icons?i=swiper" width="40"> |
+| React | Next.js | Tailwind CSS | Bootstrap | jQuery | Framer Motion | Redux Toolkit | Swiper |
+
+### ⚙️ Backend & Database
+
+| | | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=laravel" width="40"> | <img src="https://skillicons.dev/icons?i=mysql" width="40"> | <img src="https://skillicons.dev/icons?i=postgres" width="40"> | <img src="https://skillicons.dev/icons?i=amazonrds" width="40"> | <img src="https://skillicons.dev/icons?i=mariadb" width="40"> | <img src="https://skillicons.dev/icons?i=expressjs" width="40"> | <img src="https://skillicons.dev/icons?i=jwt" width="40"> | <img src="https://skillicons.dev/icons?i=axios" width="40"> |
+| Laravel | MySQL | PostgreSQL | Amazon RDS | MariaDB | Express.js | JWT | Axios |
+
+### 🧰 Tools, Cloud & AI
+
+| | | | | | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"> | <img src="https://skillicons.dev/icons?i=aws" width="40"> | <img src="https://skillicons.dev/icons?i=docker" width="40"> | <img src="https://skillicons.dev/icons?i=vercel" width="40"> | <img src="https://skillicons.dev/icons?i=githubpages" width="40"> | <img src="https://skillicons.dev/icons?i=cpanel" width="40"> | <img src="https://skillicons.dev/icons?i=git" width="40"> | <img src="https://skillicons.dev/icons?i=openai" width="40"> | <img src="https://skillicons.dev/icons?i=n8n" width="40"> | <img src="https://skillicons.dev/icons?i=blockchain" width="40"> | <img src="https://skillicons.dev/icons?i=unity" width="40"> |
+| Node.js | AWS | Docker | Vercel | GitHub Pages | cPanel | Git | OpenAI API | n8n | Blockchain | Unity |
 
 ---
 
