@@ -2,14 +2,14 @@
   <img src="banner-github.webp" alt="GitHub Banner" width="100%" />
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00ff88&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=242938&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
-  <img alt="Header Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00ff88&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00AEFF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00AEFF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
+  <img alt="Header Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00AEFF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
 </picture>
 
   ![Discord Status](https://discord.c99.nl/widget/theme-1/736371709137125418.png)
 
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-fiqtor.com-2ea44f?style=for-the-badge)](https://fiqtor.com)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-fiqtor.com-00AEFF?style=for-the-badge)](https://fiqtor.com)
   [![Profile Views](https://komarev.com/ghpvc/?username=FIQTOR&style=for-the-badge&color=blue)](https://github.com/FIQTOR)
   [![Coding Time](https://wakatime.com/badge/user/018b6162-db04-4d9a-aba1-c4451deb03f6.svg?style=for-the-badge)](https://wakatime.com/@018b6162-db04-4d9a-aba1-c4451deb03f6)
 
