@@ -2,9 +2,9 @@
   <img src="banner-github.webp" alt="GitHub Banner" width="100%" />
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
-  <img alt="Header Animation" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00ff88&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00ff88&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=242938&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
+  <img alt="Header Animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00ff88&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=+Welcome+to+My+Digital+Universe!;+FIQTOR+-+AI+X+Software+Engineer" />
 </picture>
 
   ![Discord Status](https://discord.c99.nl/widget/theme-1/736371709137125418.png)
@@ -47,21 +47,21 @@
 
 | | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react" width="40"> | <img src="https://skillicons.dev/icons?i=nextjs" width="40"> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"> | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"> | <img src="https://skillicons.dev/icons?i=jquery" width="40"> | <img src="https://skillicons.dev/icons?i=framer" width="40"> | <img src="https://skillicons.dev/icons?i=redux" width="40"> | <img src="https://skillicons.dev/icons?i=swiper" width="40"> |
+| <img src="https://skillicons.dev/icons?i=react" width="40"> | <img src="https://skillicons.dev/icons?i=nextjs" width="40"> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"> | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"> | <img src="https://skillicons.dev/icons?i=jquery" width="40"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=framer&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=redux" width="40"> | <img src="assets/swiper.svg" width="40"> |
 | React | Next.js | Tailwind CSS | Bootstrap | jQuery | Framer Motion | Redux Toolkit | Swiper |
 
 ### ⚙️ Backend & Database
 
 | | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=laravel" width="40"> | <img src="https://skillicons.dev/icons?i=mysql" width="40"> | <img src="https://skillicons.dev/icons?i=postgres" width="40"> | <img src="https://skillicons.dev/icons?i=amazonrds" width="40"> | <img src="https://skillicons.dev/icons?i=mariadb" width="40"> | <img src="https://skillicons.dev/icons?i=expressjs" width="40"> | <img src="https://skillicons.dev/icons?i=jwt" width="40"> | <img src="https://skillicons.dev/icons?i=axios" width="40"> |
+| <img src="https://skillicons.dev/icons?i=laravel" width="40"> | <img src="https://skillicons.dev/icons?i=mysql" width="40"> | <img src="https://skillicons.dev/icons?i=postgres" width="40"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=rds&theme=dark" width="40"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=expressjs" width="40"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt&theme=dark" width="40"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=axios&theme=dark" width="40"> |
 | Laravel | MySQL | PostgreSQL | Amazon RDS | MariaDB | Express.js | JWT | Axios |
 
 ### 🧰 Tools, Cloud & AI
 
 | | | | | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="40"> | <img src="https://skillicons.dev/icons?i=aws" width="40"> | <img src="https://skillicons.dev/icons?i=docker" width="40"> | <img src="https://skillicons.dev/icons?i=vercel" width="40"> | <img src="https://skillicons.dev/icons?i=githubpages" width="40"> | <img src="https://skillicons.dev/icons?i=cpanel" width="40"> | <img src="https://skillicons.dev/icons?i=git" width="40"> | <img src="https://skillicons.dev/icons?i=openai" width="40"> | <img src="https://skillicons.dev/icons?i=n8n" width="40"> | <img src="https://skillicons.dev/icons?i=blockchain" width="40"> | <img src="https://skillicons.dev/icons?i=unity" width="40"> |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"> | <img src="https://skillicons.dev/icons?i=aws" width="40"> | <img src="https://skillicons.dev/icons?i=docker" width="40"> | <img src="https://skillicons.dev/icons?i=vercel" width="40"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages&theme=dark" width="40"> | <img src="assets/cpanel.svg" width="40"> | <img src="https://skillicons.dev/icons?i=git" width="40"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=dark" width="40"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark" width="40"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=ethereum&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=unity" width="40"> |
 | Node.js | AWS | Docker | Vercel | GitHub Pages | cPanel | Git | OpenAI API | n8n | Blockchain | Unity |
 
 ---
@@ -82,7 +82,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=FIQTOR&theme=tokyonight" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=FIQTOR&theme=tokyonight" />
 </div>
 
 ---
