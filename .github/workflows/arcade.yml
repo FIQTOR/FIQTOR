@@ -25,7 +25,7 @@ jobs:
           games: 'bomberman'
 
 
-      - name: push bomberman-contribution-graph.svg to the output branch
+      - name: push bomberman-contribution-graph.svg to the pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
