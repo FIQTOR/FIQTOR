@@ -46,12 +46,12 @@
 <div align="center">
 
 <a href="https://github.com/FIQTOR/flowers-for-someone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=flowers-for-someone&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="flowers-for-someone" /></a>
-<a href="https://github.com/FIQTOR/portfolio-fiqtor.xyz"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=portfolio-fiqtor.xyz&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="portfolio-fiqtor.xyz" /></a>
-
+<a href="https://github.com/FIQTOR/Word-Love-Code"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=Word-Love-Code&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="Word-Love-Code" /></a>
 <a href="https://github.com/FIQTOR/fiqtor.com-create-your-own"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=fiqtor.com-create-your-own&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="fiqtor.com-create-your-own" /></a>
-<a href="https://github.com/FIQTOR/personal-finance-management"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=personal-finance-management&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="personal-finance-management" /></a>
 
-<a href="https://github.com/FIQTOR/api.fiqtor"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=api.fiqtor&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="api.fiqtor" /></a>
+<a href="https://github.com/FIQTOR/personal-finance-management"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=personal-finance-management&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="personal-finance-management" /></a>
+<a href="https://github.com/FIQTOR/image-converter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=image-converter&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="image-converter" /></a>
+
 <a href="https://github.com/FIQTOR/particle-handtracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=particle-handtracker&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="particle-handtracker" /></a>
 
 </div>
