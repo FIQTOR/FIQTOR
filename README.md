@@ -74,17 +74,9 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 🎮 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/output/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/FIQTOR/FIQTOR/output/github-snake.svg" width="100%" />
-  </picture>
-
-  <br />
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FIQTOR/FIQTOR/pacman-output/bomberman-contribution-graph.svg" />
