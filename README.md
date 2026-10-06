@@ -25,7 +25,7 @@
   <p>
     👋 <b>Taufiiqul Hakim</b> — Software Engineer from Indonesia 🇮🇩 with <b>5+ years</b> building responsive,<br />
     animated, user-friendly web apps. I love pairing clean code with great design —<br />
-    and wiring <b>AI</b> into products to make them genuinely smarter.
+    and helping <b>businesses integrate AI</b> to make them genuinely smarter.
   </p>
 </div>
 
@@ -35,7 +35,7 @@
 
 | 🤖 &nbsp;AI Engineering | 🌐 &nbsp;Full-Stack Development | 🎨 &nbsp;Motion & Interaction |
 | :---: | :---: | :---: |
-| LLM apps, AI chatbots,<br />n8n automations & AI-assisted analytics | React 19 · Next.js · Node/Express<br />Laravel · TypeScript · SQL | Micro-interactions, WebGL/Three.js,<br />Framer Motion & product polish |
+| **Helping businesses integrate AI**<br />LLM apps · AI chatbots · automation<br />Custom AI agents & analytics tied to real business goals | React 19 · Next.js · Node/Express<br />Laravel · TypeScript · SQL | Micro-interactions, WebGL/Three.js,<br />Framer Motion & product polish |
 
 ---
 
