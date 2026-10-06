@@ -39,6 +39,17 @@
 
 ---
 
+## 🔭 Currently
+
+```yaml
+building:   IARTY AI — AI-powered product platform
+learning:   LLM orchestration · RAG · agentic workflows
+open_to:    AI engineering · full-stack · product roles
+location:   Indonesia 🇮🇩 (remote-friendly)
+```
+
+---
+
 ## 🚀 Featured Projects
 
 > Flagship work — from open-source templates that got **851 forks** to AI-powered full-stack platforms.
