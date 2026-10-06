@@ -14,10 +14,8 @@
 
   <p>
     <a href="https://fiqtor.com"><img src="https://img.shields.io/badge/Portfolio-fiqtor.com-00AEFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
-    <img src="https://img.shields.io/github/followers/FIQTOR?style=for-the-badge&logo=github&color=00AEFF&labelColor=0D1117" alt="Followers" />
     <img src="https://img.shields.io/github/stars/FIQTOR?style=for-the-badge&logo=github&color=00AEFF&labelColor=0D1117" alt="Stars" />
     <a href="https://wakatime.com/@018b6162-db04-4d9a-aba1-c4451deb03f6"><img src="https://wakatime.com/badge/user/018b6162-db04-4d9a-aba1-c4451deb03f6.svg?style=for-the-badge" alt="WakaTime" /></a>
-    <a href="https://hits.sh/github.com/FIQTOR"><img src="https://hits.sh/github.com/FIQTOR.svg?style=for-the-badge&label=Profile%20Views&color=00AEFF&labelColor=0D1117&logo=github" alt="Profile Views" /></a>
   </p>
 
   <blockquote>
