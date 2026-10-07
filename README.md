@@ -9,7 +9,7 @@
   <br />
 
   <a href="https://fiqtor.com">
-    <img alt="Typing Header" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=900&color=00AEFF&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=Hi%2C+I%27m+FIQTOR+%F0%9F%91%8B;AI+%C3%97+Software+Engineer;I+build+products+that+think." />
+    <img alt="Typing Header" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=900&color=00AEFF&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=Hi%2C+I%27m+FIQTOR+%F0%9F%91%8B;AI+%C3%97+Software+Engineer" />
   </a>
 
   <p>
