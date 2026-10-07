@@ -61,7 +61,7 @@ location:   Indonesia 🇮🇩 (remote-friendly)
 <a href="https://github.com/FIQTOR/fiqtor.com-create-your-own"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=fiqtor.com-create-your-own&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="fiqtor.com-create-your-own" /></a>
 
 <a href="https://github.com/FIQTOR/personal-finance-management"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=personal-finance-management&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="personal-finance-management" /></a>
-<a href="https://github.com/FIQTOR/image-converter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=image-converter&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="image-converter" /></a>
+<a href="https://github.com/FIQTOR/cryptopulse"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=cryptopulse&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="cryptopulse" /></a>
 
 <a href="https://github.com/FIQTOR/particle-handtracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=particle-handtracker&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="particle-handtracker" /></a>
 
