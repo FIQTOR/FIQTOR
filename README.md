@@ -111,7 +111,8 @@ location:   Indonesia 🇮🇩 (remote-friendly)
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,postgres,mariadb,prisma,redis&perline=8" alt="Backend and Database" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,postgres,prisma,redis&perline=8" alt="Backend and Database" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb&theme=dark" width="48" alt="MariaDB" />
 
 **Tools, Cloud & AI**
 
