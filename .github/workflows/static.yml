@@ -33,6 +33,10 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+        with:
+          # Auto-enable Pages (build source = GitHub Actions) if it is not yet
+          # configured, so the deploy no longer fails with "Get Pages site failed".
+          enablement: true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
