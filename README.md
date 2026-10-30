@@ -56,14 +56,14 @@ location:   Indonesia 🇮🇩 (remote-friendly)
 
 <div align="center">
 
-<a href="https://github.com/FIQTOR/flowers-for-someone"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=flowers-for-someone&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="flowers-for-someone" /></a>
-<a href="https://github.com/FIQTOR/Word-Love-Code"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=Word-Love-Code&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="Word-Love-Code" /></a>
+<a href="https://github.com/FIQTOR/flowers-for-someone"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=FIQTOR&repo=flowers-for-someone&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="flowers-for-someone" /></a>
+<a href="https://github.com/FIQTOR/Word-Love-Code"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=FIQTOR&repo=Word-Love-Code&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="Word-Love-Code" /></a>
 
-<a href="https://github.com/FIQTOR/fiqtor.com-create-your-own"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=fiqtor.com-create-your-own&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="fiqtor.com-create-your-own" /></a>
-<a href="https://github.com/FIQTOR/personal-finance-management"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=personal-finance-management&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="personal-finance-management" /></a>
+<a href="https://github.com/FIQTOR/fiqtor.com-create-your-own"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=FIQTOR&repo=fiqtor.com-create-your-own&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="fiqtor.com-create-your-own" /></a>
+<a href="https://github.com/FIQTOR/personal-finance-management"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=FIQTOR&repo=personal-finance-management&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="personal-finance-management" /></a>
 
-<a href="https://github.com/FIQTOR/cryptopulse"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=cryptopulse&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="cryptopulse" /></a>
-<a href="https://github.com/FIQTOR/particle-handtracker"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=FIQTOR&repo=particle-handtracker&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="particle-handtracker" /></a>
+<a href="https://github.com/FIQTOR/cryptopulse"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=FIQTOR&repo=cryptopulse&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="cryptopulse" /></a>
+<a href="https://github.com/FIQTOR/particle-handtracker"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=FIQTOR&repo=particle-handtracker&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&icon_color=00AEFF&border_color=30363D&show_owner=false" alt="particle-handtracker" /></a>
 
 </div>
 
@@ -72,13 +72,13 @@ location:   Indonesia 🇮🇩 (remote-friendly)
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FIQTOR&show_icons=true&bg_color=0D1117&title_color=00AEFF&icon_color=00AEFF&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=FIQTOR&show_icons=true&bg_color=0D1117&title_color=00AEFF&icon_color=00AEFF&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
   <img height="180" src="https://streak-stats.demolab.com/?user=FIQTOR&background=0D1117&border=30363D&stroke=00AEFF&ring=00AEFF&fire=00AEFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00AEFF&sideLabels=C9D1D9&dates=8B949E&hide_border=false" alt="Streak Stats" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FIQTOR&theme=github_dark" alt="Profile Details" />
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIQTOR&layout=compact&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&border_color=30363D&langs_count=8" alt="Top Languages" />
+  <img width="34%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FIQTOR&layout=compact&bg_color=0D1117&title_color=00AEFF&text_color=C9D1D9&border_color=30363D&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
