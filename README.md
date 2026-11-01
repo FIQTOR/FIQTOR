@@ -8,12 +8,12 @@
 
   <br />
 
-  <a href="https://fiqtor.com">
+  <a href="https://fiqtor.pages.dev">
     <img alt="Typing Header" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=900&color=00AEFF&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=Hi%2C+I%27m+FIQTOR+%F0%9F%91%8B;AI+%C3%97+Software+Engineer" />
   </a>
 
   <p>
-    <a href="https://fiqtor.com"><img src="https://img.shields.io/badge/Portfolio-fiqtor.com-00AEFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+    <a href="https://fiqtor.pages.dev"><img src="https://img.shields.io/badge/Portfolio-fiqtor.pages.dev-00AEFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
     <img src="https://img.shields.io/github/stars/FIQTOR?style=for-the-badge&logo=github&color=00AEFF&labelColor=0D1117" alt="Stars" />
     <a href="https://wakatime.com/@018b6162-db04-4d9a-aba1-c4451deb03f6"><img src="https://wakatime.com/badge/user/018b6162-db04-4d9a-aba1-c4451deb03f6.svg?style=for-the-badge" alt="WakaTime" /></a>
   </p>
@@ -145,7 +145,7 @@ location:   Indonesia 🇮🇩 (remote-friendly)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fiqtorr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fiqtorr/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fiqtor/)
-[![Portfolio](https://img.shields.io/badge/fiqtor.com-00AEFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fiqtor.com)
+[![Portfolio](https://img.shields.io/badge/fiqtor.pages.dev-00AEFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fiqtor.pages.dev)
 
 <br />
 
